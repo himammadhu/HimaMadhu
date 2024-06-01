@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HM/home/static/css/main.40bc7630.css",
+    "main.js": "/HM/home/static/js/main.5dce7111.js",
+    "static/media/HeadshotPro Avatar 2024-05-12T15-16-29-453Z.png": "/HM/home/static/media/HeadshotPro Avatar 2024-05-12T15-16-29-453Z.f323850800936012d241.png",
+    "index.html": "/HM/home/index.html",
+    "main.40bc7630.css.map": "/HM/home/static/css/main.40bc7630.css.map",
+    "main.5dce7111.js.map": "/HM/home/static/js/main.5dce7111.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40bc7630.css",
+    "static/js/main.5dce7111.js"
+  ]
+}
